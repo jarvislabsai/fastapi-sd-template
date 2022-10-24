@@ -1,0 +1,7 @@
+fastapi==0.85.0
+uvicorn==0.18.3
+diffusers==0.6.0
+gunicorn==20.1.0
+boto3==1.24.90
+transformers==4.23.1
+ftfy==6.1.1
